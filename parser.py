@@ -1,3 +1,7 @@
+"""
+Parse json dumps from Twitter search API
+"""
+
 import json
 
 def json_to_tsv(inname, outname):
