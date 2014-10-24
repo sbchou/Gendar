@@ -1,0 +1,2652 @@
+{
+  "users": [
+    {
+      "id": 16244239,
+      "id_str": "16244239",
+      "name": "Angela Arena Foster",
+      "screen_name": "aafoster",
+      "location": "Boston, MA",
+      "profile_location": null,
+      "description": "tech strategy & development - TEDx organizer - web of things fanatic - @Quanttus cat herder - dreaming dreams & scheming schemes",
+      "url": "http://t.co/NULGferR9b",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/NULGferR9b",
+              "expanded_url": "http://about.me/angelaw8",
+              "display_url": "about.me/angelaw8",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 398,
+      "friends_count": 479,
+      "listed_count": 39,
+      "created_at": "Thu Sep 11 17:44:31 +0000 2008",
+      "favourites_count": 567,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1066,
+      "lang": "en",
+      "status": {
+        "created_at": "Fri Aug 22 14:57:22 +0000 2014",
+        "id": 502831901317414900,
+        "id_str": "502831901317414914",
+        "text": "RT @stanreiss: Congrats to @_david_he from @Quanttus on being named to the @techreview Top Innovators Under 25 list!",
+        "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Wed Aug 20 12:04:32 +0000 2014",
+          "id": 502063633481084900,
+          "id_str": "502063633481084928",
+          "text": "Congrats to @_david_he from @Quanttus on being named to the @techreview Top Innovators Under 25 list!",
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 2,
+          "favorite_count": 3,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+              {
+                "screen_name": "_david_he",
+                "name": "David He",
+                "id": 826420430,
+                "id_str": "826420430",
+                "indices": [
+                  12,
+                  22
+                ]
+              },
+              {
+                "screen_name": "Quanttus",
+                "name": "Quanttus ",
+                "id": 1414491019,
+                "id_str": "1414491019",
+                "indices": [
+                  28,
+                  37
+                ]
+              },
+              {
+                "screen_name": "techreview",
+                "name": "MIT Tech Review",
+                "id": 15808647,
+                "id_str": "15808647",
+                "indices": [
+                  60,
+                  71
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "lang": "en"
+        },
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": [
+            {
+              "screen_name": "stanreiss",
+              "name": "Stan Reiss",
+              "id": 774356490,
+              "id_str": "774356490",
+              "indices": [
+                3,
+                13
+              ]
+            },
+            {
+              "screen_name": "_david_he",
+              "name": "David He",
+              "id": 826420430,
+              "id_str": "826420430",
+              "indices": [
+                27,
+                37
+              ]
+            },
+            {
+              "screen_name": "Quanttus",
+              "name": "Quanttus ",
+              "id": 1414491019,
+              "id_str": "1414491019",
+              "indices": [
+                43,
+                52
+              ]
+            },
+            {
+              "screen_name": "techreview",
+              "name": "MIT Tech Review",
+              "id": 15808647,
+              "id_str": "15808647",
+              "indices": [
+                75,
+                86
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "290008",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/161382726/designIs4.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/161382726/designIs4.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3220577739/2961f8c5d20e92a3fe3badf3d2aad92e_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3220577739/2961f8c5d20e92a3fe3badf3d2aad92e_normal.jpeg",
+      "profile_link_color": "879609",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "923150",
+      "profile_text_color": "290008",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    {
+      "id": 16190278,
+      "id_str": "16190278",
+      "name": "amandahesser",
+      "screen_name": "amandahesser",
+      "location": "Brooklyn, NY",
+      "profile_location": null,
+      "description": "Co-founder of @Food52. Author. Former New York Times writer. Parent of twins. I live in Brooklyn, but not the cool part.",
+      "url": "http://t.co/E1PHBSCR5B",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/E1PHBSCR5B",
+              "expanded_url": "http://www.food52.com",
+              "display_url": "food52.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 215326,
+      "friends_count": 736,
+      "listed_count": 3548,
+      "created_at": "Mon Sep 08 19:34:59 +0000 2008",
+      "favourites_count": 861,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 12836,
+      "lang": "en",
+      "status": {
+        "created_at": "Thu Oct 23 00:51:11 +0000 2014",
+        "id": 525086999930499100,
+        "id_str": "525086999930499072",
+        "text": "Jennifer Garner notes that no one ever asks @BenAffleck about balancing work &amp; family; she's asked this all the time: http://t.co/hpznr2ZiWb",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 15,
+        "favorite_count": 27,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "url": "http://t.co/hpznr2ZiWb",
+              "expanded_url": "http://www.today.com/popculture/jennifer-garner-no-one-asks-ben-about-work-family-balance-1D80232707?adbid=10152831815571350&adbpl=fb&adbpr=12566691349&cid=sm_t_main_1_20141022_34176327",
+              "display_url": "today.com/popculture/jen…",
+              "indices": [
+                122,
+                144
+              ]
+            }
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "BenAffleck",
+              "name": "Ben Affleck",
+              "id": 329746058,
+              "id_str": "329746058",
+              "indices": [
+                44,
+                55
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "242929",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/65285353/Walker_and_Addie_on_Halloween_2.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/65285353/Walker_and_Addie_on_Halloween_2.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2997018783/f42dead16d4525fe43c3afbd89790284_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2997018783/f42dead16d4525fe43c3afbd89790284_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16190278/1369076541",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    {
+      "id": 16120265,
+      "id_str": "16120265",
+      "name": "Ina Fried",
+      "screen_name": "inafried",
+      "location": "San Francisco",
+      "profile_location": null,
+      "description": "Senior Editor at Re/code, covering mobile stuff, and huge softball, hockey, basketball fan.",
+      "url": "http://t.co/8Hcr1CCZeo",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/8Hcr1CCZeo",
+              "expanded_url": "http://www.recode.net",
+              "display_url": "recode.net",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 63127,
+      "friends_count": 2304,
+      "listed_count": 3004,
+      "created_at": "Wed Sep 03 21:48:13 +0000 2008",
+      "favourites_count": 4932,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 28636,
+      "lang": "en",
+      "status": {
+        "created_at": "Fri Oct 24 16:52:26 +0000 2014",
+        "id": 525691294719680500,
+        "id_str": "525691294719680512",
+        "text": "@rajatagr Only the @JohnLegere interview Monday night",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 525687081444462600,
+        "in_reply_to_status_id_str": "525687081444462593",
+        "in_reply_to_user_id": 14507215,
+        "in_reply_to_user_id_str": "14507215",
+        "in_reply_to_screen_name": "rajatagr",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": [
+            {
+              "screen_name": "rajatagr",
+              "name": "Rajat Agrawal",
+              "id": 14507215,
+              "id_str": "14507215",
+              "indices": [
+                0,
+                9
+              ]
+            },
+            {
+              "screen_name": "JohnLegere",
+              "name": "John Legere",
+              "id": 1394399438,
+              "id_str": "1394399438",
+              "indices": [
+                19,
+                30
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/471474570407333888/QIFu4fOV_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/471474570407333888/QIFu4fOV_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16120265/1401508719",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    {
+      "id": 15921173,
+      "id_str": "15921173",
+      "name": "Esther Dyson",
+      "screen_name": "edyson",
+      "location": "NYC, but usually elsewhere",
+      "profile_location": null,
+      "description": "Internet court jEsther -- I occupy Esther Dyson.    Founder @HICCup_co         https://t.co/5dWfUSratQ  http://t.co/a1Gmo3FTQv",
+      "url": "http://t.co/wxRWvXbXch",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/wxRWvXbXch",
+              "expanded_url": "http://www.project-syndicate.org/series/net_world/description",
+              "display_url": "project-syndicate.org/series/net_wor…",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/5dWfUSratQ",
+              "expanded_url": "https://mailstrom.co/edyson",
+              "display_url": "mailstrom.co/edyson",
+              "indices": [
+                79,
+                102
+              ]
+            },
+            {
+              "url": "http://t.co/a1Gmo3FTQv",
+              "expanded_url": "http://www.flickr.com/photos/edyson",
+              "display_url": "flickr.com/photos/edyson",
+              "indices": [
+                104,
+                126
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 49274,
+      "friends_count": 1229,
+      "listed_count": 2483,
+      "created_at": "Wed Aug 20 18:38:55 +0000 2008",
+      "favourites_count": 124,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4161,
+      "lang": "en",
+      "status": {
+        "created_at": "Fri Oct 24 11:29:19 +0000 2014",
+        "id": 525609979399520260,
+        "id_str": "525609979399520256",
+        "text": "Anyone know Ben Stringffellow at McDonald's so we can tell him about @WaytoWellville test market for healthy food? http://t.co/dx0cM0ySZh",
+        "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 3,
+        "favorite_count": 2,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "url": "http://t.co/dx0cM0ySZh",
+              "expanded_url": "http://bit.ly/1sCkvly",
+              "display_url": "bit.ly/1sCkvly",
+              "indices": [
+                115,
+                137
+              ]
+            }
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "WayToWellville",
+              "name": "The Way to Wellville",
+              "id": 2417536500,
+              "id_str": "2417536500",
+              "indices": [
+                69,
+                84
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "BADFCD",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/169422106/sawhorse_flickr_twitter_5156266668.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/169422106/sawhorse_flickr_twitter_5156266668.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/474207333111705601/GYvWOPew_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/474207333111705601/GYvWOPew_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15921173/1401895849",
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "F2E195",
+      "profile_sidebar_fill_color": "FFF7CC",
+      "profile_text_color": "0C3E53",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    {
+      "id": 15814841,
+      "id_str": "15814841",
+      "name": "Megan Berry",
+      "screen_name": "meganberry",
+      "location": "New York, NY",
+      "profile_location": null,
+      "description": "Head of Social Product and Community @RebelMouse. Previously led community @Klout. Stanford grad. Tea addict.",
+      "url": "http://t.co/CXyxNN4nUr",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/CXyxNN4nUr",
+              "expanded_url": "http://meganberry.com",
+              "display_url": "meganberry.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 11901,
+      "friends_count": 3055,
+      "listed_count": 1182,
+      "created_at": "Mon Aug 11 22:28:15 +0000 2008",
+      "favourites_count": 2834,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 19673,
+      "lang": "en",
+      "status": {
+        "created_at": "Fri Oct 24 00:13:46 +0000 2014",
+        "id": 525439974930645000,
+        "id_str": "525439974930644992",
+        "text": "@AndrewGothelf @JasonGelman I wish I could claim credit",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 525439604019957760,
+        "in_reply_to_status_id_str": "525439604019957763",
+        "in_reply_to_user_id": 48078208,
+        "in_reply_to_user_id_str": "48078208",
+        "in_reply_to_screen_name": "AndrewGothelf",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": [
+            {
+              "screen_name": "AndrewGothelf",
+              "name": "Andrew Gothelf",
+              "id": 48078208,
+              "id_str": "48078208",
+              "indices": [
+                0,
+                14
+              ]
+            },
+            {
+              "screen_name": "JasonGelman",
+              "name": "Jason Gelman",
+              "id": 220137029,
+              "id_str": "220137029",
+              "indices": [
+                15,
+                27
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/767042710/c214d3fa8fc2843a535ba0a7d6539d50.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/767042710/c214d3fa8fc2843a535ba0a7d6539d50.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/514888731459723264/Ll9kNMM8_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/514888731459723264/Ll9kNMM8_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15814841/1398192763",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    {
+      "id": 15524875,
+      "id_str": "15524875",
+      "name": "Sara Chipps",
+      "screen_name": "SaraJChipps",
+      "location": "SF -- NYC -- NJ",
+      "profile_location": null,
+      "description": "Just a girl, standing in front of a microprocessor, asking it to love her. I made @girldevelopit. I'm making @jewliebots.",
+      "url": "http://t.co/2bqe9tVF3N",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/2bqe9tVF3N",
+              "expanded_url": "http://SaraJChipps.com",
+              "display_url": "SaraJChipps.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 21481,
+      "friends_count": 998,
+      "listed_count": 1540,
+      "created_at": "Tue Jul 22 02:26:37 +0000 2008",
+      "favourites_count": 16590,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 37375,
+      "lang": "en",
+      "status": {
+        "created_at": "Fri Oct 24 14:43:44 +0000 2014",
+        "id": 525658907432079360,
+        "id_str": "525658907432079361",
+        "text": "RT @amycao: \"Happy little clouds\" now made possible with the new Surface Pressure feature in Pencil by @fiftythree! http://t.co/18FWnODrxW",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Fri Oct 24 14:41:03 +0000 2014",
+          "id": 525658231117713400,
+          "id_str": "525658231117713408",
+          "text": "\"Happy little clouds\" now made possible with the new Surface Pressure feature in Pencil by @fiftythree! http://t.co/18FWnODrxW",
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 2,
+          "favorite_count": 5,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+              {
+                "url": "http://t.co/18FWnODrxW",
+                "expanded_url": "http://twitter.com/amycao/status/525658231117713408/photo/1",
+                "display_url": "pic.twitter.com/18FWnODrxW",
+                "indices": [
+                  104,
+                  126
+                ]
+              }
+            ],
+            "user_mentions": [
+              {
+                "screen_name": "FiftyThree",
+                "name": "FiftyThree",
+                "id": 492609310,
+                "id_str": "492609310",
+                "indices": [
+                  91,
+                  102
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "url": "http://t.co/18FWnODrxW",
+              "expanded_url": "http://twitter.com/amycao/status/525658231117713408/photo/1",
+              "display_url": "pic.twitter.com/18FWnODrxW",
+              "indices": [
+                116,
+                138
+              ]
+            }
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "amycao",
+              "name": "Amy Cao",
+              "id": 48946627,
+              "id_str": "48946627",
+              "indices": [
+                3,
+                10
+              ]
+            },
+            {
+              "screen_name": "FiftyThree",
+              "name": "FiftyThree",
+              "id": 492609310,
+              "id_str": "492609310",
+              "indices": [
+                103,
+                114
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFF04D",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/99724100/2010-05-04_09.15.13.jpg.scaled.1000.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/99724100/2010-05-04_09.15.13.jpg.scaled.1000.jpg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/475386075997683712/TOSOGa0K_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/475386075997683712/TOSOGa0K_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15524875/1404073059",
+      "profile_link_color": "F241AB",
+      "profile_sidebar_border_color": "FFF8AD",
+      "profile_sidebar_fill_color": "F6FFD1",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    {
+      "id": 15510569,
+      "id_str": "15510569",
+      "name": "Lauren Leto",
+      "screen_name": "laurenleto",
+      "location": "NYC",
+      "profile_location": null,
+      "description": "co-founder @tfln. author of judging a book by its lover.",
+      "url": "http://t.co/VtPkJb416F",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/VtPkJb416F",
+              "expanded_url": "http://judgingabookbyitslover.com",
+              "display_url": "judgingabookbyitslover.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9589,
+      "friends_count": 937,
+      "listed_count": 562,
+      "created_at": "Mon Jul 21 04:45:28 +0000 2008",
+      "favourites_count": 37264,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 10221,
+      "lang": "en",
+      "status": {
+        "created_at": "Thu Oct 23 15:49:15 +0000 2014",
+        "id": 525313006029512700,
+        "id_str": "525313006029512705",
+        "text": "wait, @BookRiot, how did i only JUST find this? you guys are the best! http://t.co/TWYbEByjls",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "url": "http://t.co/TWYbEByjls",
+              "expanded_url": "http://deals.bookriot.com/top",
+              "display_url": "deals.bookriot.com/top",
+              "indices": [
+                71,
+                93
+              ]
+            }
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "BookRiot",
+              "name": "Book Riot",
+              "id": 355321621,
+              "id_str": "355321621",
+              "indices": [
+                6,
+                15
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "8C878C",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/340692887/tumblr_ld4w3xPTvy1qa0bpfo1_500.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/340692887/tumblr_ld4w3xPTvy1qa0bpfo1_500.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000114822581/5efb871eef6ceb657849e41a3042cc06_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000114822581/5efb871eef6ceb657849e41a3042cc06_normal.jpeg",
+      "profile_link_color": "AD84A7",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F7E8E8",
+      "profile_text_color": "170303",
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    {
+      "id": 15369355,
+      "id_str": "15369355",
+      "name": "Nisha Chittal",
+      "screen_name": "NishaChittal",
+      "location": "New York, NY",
+      "profile_location": null,
+      "description": "Journalist and manager of social media at @msnbc. Lover of news, politics, culture. Opinions my own. http://t.co/uQ8f1fdWz0 / Nisha.Chittal@nbcuni.com",
+      "url": "http://t.co/91pHRwJlpH",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/91pHRwJlpH",
+              "expanded_url": "http://tinyletter.com/theweekinladynews",
+              "display_url": "tinyletter.com/theweekinladyn…",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/uQ8f1fdWz0",
+              "expanded_url": "http://nishachittal.com",
+              "display_url": "nishachittal.com",
+              "indices": [
+                101,
+                123
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 14116,
+      "friends_count": 1025,
+      "listed_count": 757,
+      "created_at": "Wed Jul 09 19:36:23 +0000 2008",
+      "favourites_count": 2689,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 21018,
+      "lang": "en",
+      "status": {
+        "created_at": "Fri Oct 24 16:36:35 +0000 2014",
+        "id": 525687307308130300,
+        "id_str": "525687307308130304",
+        "text": "RT @msnbc: WATCH LIVE: Mayor Bill de Blasio provides an update on the condition of New York City's Ebola patient: http://t.co/iyAK6q5u7o",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Fri Oct 24 16:34:37 +0000 2014",
+          "id": 525686814321827840,
+          "id_str": "525686814321827840",
+          "text": "WATCH LIVE: Mayor Bill de Blasio provides an update on the condition of New York City's Ebola patient: http://t.co/iyAK6q5u7o",
+          "source": "<a href=\"http://adobe.com\" rel=\"nofollow\">Adobe® Social</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 9,
+          "favorite_count": 2,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+              {
+                "url": "http://t.co/iyAK6q5u7o",
+                "expanded_url": "http://on.msnbc.com/1shUMKp",
+                "display_url": "on.msnbc.com/1shUMKp",
+                "indices": [
+                  103,
+                  125
+                ]
+              }
+            ],
+            "user_mentions": []
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "retweet_count": 9,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "url": "http://t.co/iyAK6q5u7o",
+              "expanded_url": "http://on.msnbc.com/1shUMKp",
+              "display_url": "on.msnbc.com/1shUMKp",
+              "indices": [
+                114,
+                136
+              ]
+            }
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "msnbc",
+              "name": "msnbc",
+              "id": 2836421,
+              "id_str": "2836421",
+              "indices": [
+                3,
+                9
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/525341640131891200/DumjYaj9_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/525341640131891200/DumjYaj9_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15369355/1398267443",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    {
+      "id": 15259106,
+      "id_str": "15259106",
+      "name": "sarah_haskins",
+      "screen_name": "sarah_haskins",
+      "location": "",
+      "profile_location": null,
+      "description": "See those earrings in that picture? I lost them.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 26697,
+      "friends_count": 250,
+      "listed_count": 1468,
+      "created_at": "Sat Jun 28 00:02:12 +0000 2008",
+      "favourites_count": 1726,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 3300,
+      "lang": "en",
+      "status": {
+        "created_at": "Thu Oct 23 19:58:36 +0000 2014",
+        "id": 525375759851192300,
+        "id_str": "525375759851192320",
+        "text": "Pre sept. 11th he liked to listen to the cockpit-control tower channel on the plane radio and then he'd giggle about bumpy rides.",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4230103/twitter_bg_sarah_haskins.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4230103/twitter_bg_sarah_haskins.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/459863303/picture-113_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/459863303/picture-113_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    {
+      "id": 15136215,
+      "id_str": "15136215",
+      "name": "LeighAnne3000",
+      "screen_name": "LeighAnne3000",
+      "location": "San Francisco, CA",
+      "profile_location": null,
+      "description": "#WarEagle. Big fan of kids. Mobile is everything. Biz dev, marketing, edtech. India nut, foreign policy wonk, surfer. Californian. Former Floridian.",
+      "url": "http://t.co/nDcjEKVl5q",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/nDcjEKVl5q",
+              "expanded_url": "http://www.rainbowprimaryschool.com",
+              "display_url": "rainbowprimaryschool.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 211,
+      "friends_count": 400,
+      "listed_count": 16,
+      "created_at": "Mon Jun 16 17:15:31 +0000 2008",
+      "favourites_count": 24,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1471,
+      "lang": "en",
+      "status": {
+        "created_at": "Thu Oct 23 15:29:11 +0000 2014",
+        "id": 525307959367057400,
+        "id_str": "525307959367057408",
+        "text": "RT @SkollFoundation: Job opening at Skoll Global Threats Fund: Chief Operating Officer http://t.co/BO4Cb6lYiE @SkollGlobal",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Wed Oct 22 19:00:07 +0000 2014",
+          "id": 524998654797414400,
+          "id_str": "524998654797414400",
+          "text": "Job opening at Skoll Global Threats Fund: Chief Operating Officer http://t.co/BO4Cb6lYiE @SkollGlobal",
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 6,
+          "favorite_count": 5,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+              {
+                "url": "http://t.co/BO4Cb6lYiE",
+                "expanded_url": "http://skoll.wf/125hfWa",
+                "display_url": "skoll.wf/125hfWa",
+                "indices": [
+                  66,
+                  88
+                ]
+              }
+            ],
+            "user_mentions": [
+              {
+                "screen_name": "SkollGlobal",
+                "name": "Skoll Global",
+                "id": 144936417,
+                "id_str": "144936417",
+                "indices": [
+                  89,
+                  101
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "retweet_count": 6,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "url": "http://t.co/BO4Cb6lYiE",
+              "expanded_url": "http://skoll.wf/125hfWa",
+              "display_url": "skoll.wf/125hfWa",
+              "indices": [
+                87,
+                109
+              ]
+            }
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "SkollFoundation",
+              "name": "Skoll Foundation",
+              "id": 40932856,
+              "id_str": "40932856",
+              "indices": [
+                3,
+                19
+              ]
+            },
+            {
+              "screen_name": "SkollGlobal",
+              "name": "Skoll Global",
+              "id": 144936417,
+              "id_str": "144936417",
+              "indices": [
+                110,
+                122
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "A4B45D",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000045855092/f737a00b24a8f983ae47633a3711721d.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000045855092/f737a00b24a8f983ae47633a3711721d.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/477654887107264512/UNxEcqAj_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/477654887107264512/UNxEcqAj_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15136215/1410505308",
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "CEDBD7",
+      "profile_text_color": "635026",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    {
+      "id": 15109378,
+      "id_str": "15109378",
+      "name": "Kim Hart",
+      "screen_name": "khart",
+      "location": "Washington, D.C.",
+      "profile_location": null,
+      "description": "FCC Press Secretary, Mom, Florida girl, recovering journalist, tech policy nerd. RTs, links & follows don't imply endorsements",
+      "url": "http://t.co/Q7hVVF35fe",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Q7hVVF35fe",
+              "expanded_url": "http://www.fcc.gov",
+              "display_url": "fcc.gov",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3294,
+      "friends_count": 1305,
+      "listed_count": 290,
+      "created_at": "Fri Jun 13 17:17:16 +0000 2008",
+      "favourites_count": 24,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 1514,
+      "lang": "en",
+      "status": {
+        "created_at": "Mon Oct 06 19:39:14 +0000 2014",
+        "id": 519210289951408100,
+        "id_str": "519210289951408129",
+        "text": "Hi @rousseau_ist, Chairman Wheeler gave keynote address at the #ComptelFall14 show this morning--that's what the tweets are about. @fcc_cio",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 519208861673459700,
+        "in_reply_to_status_id_str": "519208861673459712",
+        "in_reply_to_user_id": 1969286802,
+        "in_reply_to_user_id_str": "1969286802",
+        "in_reply_to_screen_name": "fcc_cio",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "ComptelFall14",
+              "indices": [
+                63,
+                77
+              ]
+            }
+          ],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": [
+            {
+              "screen_name": "rousseau_ist",
+              "name": "Harris from the Post",
+              "id": 119046423,
+              "id_str": "119046423",
+              "indices": [
+                3,
+                16
+              ]
+            },
+            {
+              "screen_name": "fcc_cio",
+              "name": "David A. Bray",
+              "id": 1969286802,
+              "id_str": "1969286802",
+              "indices": [
+                131,
+                139
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "B2DFDA",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000029776544/027f37dba6e3b0d48fac38c68e8a9139.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000029776544/027f37dba6e3b0d48fac38c68e8a9139.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2634885972/aec35634d28101b8d7fa14edce319f48_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2634885972/aec35634d28101b8d7fa14edce319f48_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15109378/1374442623",
+      "profile_link_color": "93A644",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    {
+      "id": 15080807,
+      "id_str": "15080807",
+      "name": "sarah",
+      "screen_name": "sarah_ross",
+      "location": "",
+      "profile_location": null,
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 19095,
+      "friends_count": 15269,
+      "listed_count": 609,
+      "created_at": "Wed Jun 11 03:03:59 +0000 2008",
+      "favourites_count": 119,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 46433,
+      "lang": "en",
+      "status": {
+        "created_at": "Wed Oct 22 18:12:17 +0000 2014",
+        "id": 524986614817112060,
+        "id_str": "524986614817112064",
+        "text": "OUT OF THE WOODS - TAYLOR SWIFT - Official Music Video Acoustic Cover - ...: http://t.co/LuI9QCVlUB via @YouTube",
+        "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "url": "http://t.co/LuI9QCVlUB",
+              "expanded_url": "http://youtu.be/eif5CrZ5WzU",
+              "display_url": "youtu.be/eif5CrZ5WzU",
+              "indices": [
+                77,
+                99
+              ]
+            }
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "YouTube",
+              "name": "YouTube",
+              "id": 10228272,
+              "id_str": "10228272",
+              "indices": [
+                104,
+                112
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "A20B17",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70375397/Thank_you__Sarah_Ross.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70375397/Thank_you__Sarah_Ross.jpg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1118054664/childs_pose_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1118054664/childs_pose_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15080807/1398199814",
+      "profile_link_color": "7A2482",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "ABDBD9",
+      "profile_text_color": "362720",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    {
+      "id": 15076390,
+      "id_str": "15076390",
+      "name": "Padmasree",
+      "screen_name": "Padmasree",
+      "location": "California",
+      "profile_location": null,
+      "description": "Chief Technology and Strategy Officer for Cisco. Investments and M&A. Love art, photography, Haiku and food :) Passionate about helping women in tech",
+      "url": "http://t.co/E0JE9qQntO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/E0JE9qQntO",
+              "expanded_url": "http://newsroom.cisco.com/dlls/execs/warrior-padmasree.html",
+              "display_url": "newsroom.cisco.com/dlls/execs/war…",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1492232,
+      "friends_count": 279,
+      "listed_count": 7701,
+      "created_at": "Tue Jun 10 19:13:09 +0000 2008",
+      "favourites_count": 213,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 14640,
+      "lang": "en",
+      "status": {
+        "created_at": "Thu Oct 23 15:19:46 +0000 2014",
+        "id": 525305589732098050,
+        "id_str": "525305589732098048",
+        "text": "“@phunware: @phunware CTO Luan Dang w/ @Cisco CTO @Padmasree at the Innovators Network http://t.co/t1oxxJYXjS” thanks for being there",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 525241845576507400,
+        "in_reply_to_status_id_str": "525241845576507392",
+        "in_reply_to_user_id": 39883315,
+        "in_reply_to_user_id_str": "39883315",
+        "in_reply_to_screen_name": "phunware",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 4,
+        "favorite_count": 3,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": [
+            {
+              "screen_name": "phunware",
+              "name": "Phunware, Inc.",
+              "id": 39883315,
+              "id_str": "39883315",
+              "indices": [
+                1,
+                10
+              ]
+            },
+            {
+              "screen_name": "phunware",
+              "name": "Phunware, Inc.",
+              "id": 39883315,
+              "id_str": "39883315",
+              "indices": [
+                12,
+                21
+              ]
+            },
+            {
+              "screen_name": "Cisco",
+              "name": "Cisco",
+              "id": 15749983,
+              "id_str": "15749983",
+              "indices": [
+                39,
+                45
+              ]
+            },
+            {
+              "screen_name": "Padmasree",
+              "name": "Padmasree",
+              "id": 15076390,
+              "id_str": "15076390",
+              "indices": [
+                50,
+                60
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 525241845308071940,
+              "id_str": "525241845308071936",
+              "indices": [
+                87,
+                109
+              ],
+              "media_url": "http://pbs.twimg.com/media/B0oIrOrCIAA_95W.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/B0oIrOrCIAA_95W.jpg",
+              "url": "http://t.co/t1oxxJYXjS",
+              "display_url": "pic.twitter.com/t1oxxJYXjS",
+              "expanded_url": "http://twitter.com/phunware/status/525241845576507392/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "h": 255,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 768,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 450,
+                  "resize": "fit"
+                }
+              },
+              "source_status_id": 525241845576507400,
+              "source_status_id_str": "525241845576507392"
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "BCDBDB",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/124700386/DSCN1275_2.JPG",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/124700386/DSCN1275_2.JPG",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738429784/IMG_6843_2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738429784/IMG_6843_2_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15076390/1348022052",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    {
+      "id": 15066958,
+      "id_str": "15066958",
+      "name": "Rachel S. Haot",
+      "screen_name": "rachelhaot",
+      "location": "Bushwick, Brooklyn",
+      "profile_location": null,
+      "description": "Chief Digital Officer & Deputy Secretary for Tech for @nygovcuomo. Former CDO for @nycgov & @MikeBloomberg. Mom to Jack and wife to @maxhaot.",
+      "url": "http://t.co/mci1QAt9a1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/mci1QAt9a1",
+              "expanded_url": "http://instagram.com/rachelhaot",
+              "display_url": "instagram.com/rachelhaot",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 53188,
+      "friends_count": 2455,
+      "listed_count": 3216,
+      "created_at": "Mon Jun 09 23:15:27 +0000 2008",
+      "favourites_count": 4047,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 10457,
+      "lang": "en",
+      "status": {
+        "created_at": "Fri Oct 24 17:33:04 +0000 2014",
+        "id": 525701521841737700,
+        "id_str": "525701521841737729",
+        "text": "RT @NYGovCuomo: As we learn about the first positive case for Ebola in NYC, New York State is prepared: http://t.co/7tcqD1IoDf",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Fri Oct 24 16:16:38 +0000 2014",
+          "id": 525682287778598900,
+          "id_str": "525682287778598912",
+          "text": "As we learn about the first positive case for Ebola in NYC, New York State is prepared: http://t.co/7tcqD1IoDf",
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 12,
+          "favorite_count": 6,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+              {
+                "url": "http://t.co/7tcqD1IoDf",
+                "expanded_url": "http://on.ny.gov/1vWgzO1",
+                "display_url": "on.ny.gov/1vWgzO1",
+                "indices": [
+                  88,
+                  110
+                ]
+              }
+            ],
+            "user_mentions": []
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "retweet_count": 12,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "url": "http://t.co/7tcqD1IoDf",
+              "expanded_url": "http://on.ny.gov/1vWgzO1",
+              "display_url": "on.ny.gov/1vWgzO1",
+              "indices": [
+                104,
+                126
+              ]
+            }
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "NYGovCuomo",
+              "name": "Andrew Cuomo",
+              "id": 232268199,
+              "id_str": "232268199",
+              "indices": [
+                3,
+                14
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "040A0B",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/434457634721116160/cmYXWcni.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/434457634721116160/cmYXWcni.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000331578687/c5ad75ba8221fa4393759658be007dcd_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000331578687/c5ad75ba8221fa4393759658be007dcd_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15066958/1398620568",
+      "profile_link_color": "70757D",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "575393",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    {
+      "id": 14921689,
+      "id_str": "14921689",
+      "name": "Alexandra Lutz",
+      "screen_name": "lutza",
+      "location": "New York",
+      "profile_location": null,
+      "description": "Digital strategist at Huge. Former Food52, CollegeHumor, ABCNews junkie.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 400,
+      "friends_count": 998,
+      "listed_count": 18,
+      "created_at": "Tue May 27 15:05:40 +0000 2008",
+      "favourites_count": 7,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 77,
+      "lang": "en",
+      "status": {
+        "created_at": "Tue Sep 09 19:57:21 +0000 2014",
+        "id": 509430377765933060,
+        "id_str": "509430377765933057",
+        "text": "RT @AnupKaphle: Journalists, now your editors will require you to write content that can be consumed on a Watch. Godspeed!",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Tue Sep 09 18:23:04 +0000 2014",
+          "id": 509406651242536960,
+          "id_str": "509406651242536961",
+          "text": "Journalists, now your editors will require you to write content that can be consumed on a Watch. Godspeed!",
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 1407,
+          "favorite_count": 709,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+          },
+          "favorited": false,
+          "retweeted": false,
+          "lang": "en"
+        },
+        "retweet_count": 1407,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": [
+            {
+              "screen_name": "AnupKaphle",
+              "name": "Anup Kaphle",
+              "id": 14534827,
+              "id_str": "14534827",
+              "indices": [
+                3,
+                14
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1290275353/twit_profile_pic_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1290275353/twit_profile_pic_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    {
+      "id": 14835652,
+      "id_str": "14835652",
+      "name": "Jennifer Aaker",
+      "screen_name": "aaker",
+      "location": "iPhone: 37.891510,-122.148651",
+      "profile_location": null,
+      "description": "General Atlantic Professor of Marketing, Stanford GSB.  Author of The Dragonfly Effect.",
+      "url": "http://t.co/42lKMNqEph",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/42lKMNqEph",
+              "expanded_url": "http://www.dragonflyeffect.com/blog/",
+              "display_url": "dragonflyeffect.com/blog/",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 23105,
+      "friends_count": 198,
+      "listed_count": 1961,
+      "created_at": "Mon May 19 17:54:35 +0000 2008",
+      "favourites_count": 440,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3404,
+      "lang": "en",
+      "status": {
+        "created_at": "Thu Oct 23 15:56:49 +0000 2014",
+        "id": 525314912319328260,
+        "id_str": "525314912319328256",
+        "text": "How choices guided by the pursuit of meaning vs. happiness differ http://t.co/4dsetdYGox @StanfordBiz",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 14,
+        "favorite_count": 11,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "url": "http://t.co/4dsetdYGox",
+              "expanded_url": "http://shar.es/1mVrRN",
+              "display_url": "shar.es/1mVrRN",
+              "indices": [
+                66,
+                88
+              ]
+            }
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "StanfordBiz",
+              "name": "Stanford Business",
+              "id": 17813899,
+              "id_str": "17813899",
+              "indices": [
+                89,
+                101
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/163687930/Twitter_Backround_JLA_Dragonfly_copy.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/163687930/Twitter_Backround_JLA_Dragonfly_copy.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/261394568/Jennifer_Lynn_Aaker_white_eyes_crop_-_small_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/261394568/Jennifer_Lynn_Aaker_white_eyes_crop_-_small_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    {
+      "id": 14727207,
+      "id_str": "14727207",
+      "name": "Nancy Duarte",
+      "screen_name": "nancyduarte",
+      "location": "Mountain View, CA",
+      "profile_location": null,
+      "description": "CEO and author. Passionate about persuasion and visual stories used in business. Love hugs from hubby, 3 kids and grandoggies",
+      "url": "http://t.co/rFH6xmDVv4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/rFH6xmDVv4",
+              "expanded_url": "http://www.duarte.com",
+              "display_url": "duarte.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 38369,
+      "friends_count": 1410,
+      "listed_count": 2316,
+      "created_at": "Sat May 10 19:34:31 +0000 2008",
+      "favourites_count": 161,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 9644,
+      "lang": "en",
+      "status": {
+        "created_at": "Fri Oct 24 17:09:02 +0000 2014",
+        "id": 525695473827344400,
+        "id_str": "525695473827344385",
+        "text": "RT @MichaelHyatt: “1 reason you have a hard time with haters” by @JonAcuff http://t.co/J8q2qkqCpl",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Fri Oct 24 15:03:07 +0000 2014",
+          "id": 525663786754388000,
+          "id_str": "525663786754387968",
+          "text": "“1 reason you have a hard time with haters” by @JonAcuff http://t.co/J8q2qkqCpl",
+          "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 8,
+          "favorite_count": 13,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+              {
+                "url": "http://t.co/J8q2qkqCpl",
+                "expanded_url": "http://mhyatt.us/1sVihMV",
+                "display_url": "mhyatt.us/1sVihMV",
+                "indices": [
+                  57,
+                  79
+                ]
+              }
+            ],
+            "user_mentions": [
+              {
+                "screen_name": "JonAcuff",
+                "name": "Jon Acuff",
+                "id": 14183663,
+                "id_str": "14183663",
+                "indices": [
+                  47,
+                  56
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "retweet_count": 8,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "url": "http://t.co/J8q2qkqCpl",
+              "expanded_url": "http://mhyatt.us/1sVihMV",
+              "display_url": "mhyatt.us/1sVihMV",
+              "indices": [
+                75,
+                97
+              ]
+            }
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "MichaelHyatt",
+              "name": "Michael Hyatt",
+              "id": 14315150,
+              "id_str": "14315150",
+              "indices": [
+                3,
+                16
+              ]
+            },
+            {
+              "screen_name": "JonAcuff",
+              "name": "Jon Acuff",
+              "id": 14183663,
+              "id_str": "14183663",
+              "indices": [
+                65,
+                74
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "A7BBC7",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/14201419/nancy_twitter_bg.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/14201419/nancy_twitter_bg.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1333384764/nancyduarte_sm.jpg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1333384764/nancyduarte_sm.jpg_normal.jpg",
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "D4E6EE",
+      "profile_sidebar_fill_color": "C4D4DC",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    {
+      "id": 14642416,
+      "id_str": "14642416",
+      "name": "Ellie Rountree",
+      "screen_name": "elspethjane",
+      "location": "new york city, ny ",
+      "profile_location": null,
+      "description": "internet junkie and culture enthusiast. manager of marketing &  communications @deepfocus",
+      "url": "http://t.co/dJbmZwm7Tv",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/dJbmZwm7Tv",
+              "expanded_url": "http://www.elspethjane.com",
+              "display_url": "elspethjane.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 5493,
+      "friends_count": 1098,
+      "listed_count": 364,
+      "created_at": "Sat May 03 23:19:23 +0000 2008",
+      "favourites_count": 345,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 10281,
+      "lang": "en",
+      "status": {
+        "created_at": "Fri Oct 24 17:29:00 +0000 2014",
+        "id": 525700496674529300,
+        "id_str": "525700496674529281",
+        "text": "JFK &gt; NOLA Excited for #theleddys wedding! (@ John F. Kennedy International Airport (JFK) in New York, NY) https://t.co/X7lIQOGtZr",
+        "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "theleddys",
+              "indices": [
+                26,
+                36
+              ]
+            }
+          ],
+          "symbols": [],
+          "urls": [
+            {
+              "url": "https://t.co/X7lIQOGtZr",
+              "expanded_url": "https://www.swarmapp.com/c/4AtnClpxTiD",
+              "display_url": "swarmapp.com/c/4AtnClpxTiD",
+              "indices": [
+                110,
+                133
+              ]
+            }
+          ],
+          "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "66BABE",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3213294/PA11-Kristina-2.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3213294/PA11-Kristina-2.jpg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1417797199/elliesnewprofilephoto_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1417797199/elliesnewprofilephoto_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14642416/1399576756",
+      "profile_link_color": "89ADC2",
+      "profile_sidebar_border_color": "F6CE65",
+      "profile_sidebar_fill_color": "696969",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    {
+      "id": 14609982,
+      "id_str": "14609982",
+      "name": "sarah bernard",
+      "screen_name": "sarahbernard",
+      "location": "Bay Area",
+      "profile_location": null,
+      "description": "Product Exec & Transformer, Mom, Friend...not always in that order.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 230,
+      "friends_count": 167,
+      "listed_count": 10,
+      "created_at": "Thu May 01 03:41:08 +0000 2008",
+      "favourites_count": 9,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 644,
+      "lang": "en",
+      "status": {
+        "created_at": "Thu Oct 02 20:07:29 +0000 2014",
+        "id": 517767849868525600,
+        "id_str": "517767849868525568",
+        "text": "“@seralat: Wow, didn't see that coming. Adaptive Path acquired by Capital One. Congrats to the team. http://t.co/y9K0Oy6TxC” congrats!!",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 517765136543522800,
+        "in_reply_to_status_id_str": "517765136543522816",
+        "in_reply_to_user_id": 1668781,
+        "in_reply_to_user_id_str": "1668781",
+        "in_reply_to_screen_name": "seralat",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "url": "http://t.co/y9K0Oy6TxC",
+              "expanded_url": "http://www.adaptivepath.com/ideas/adaptive-path-where-were-going-next/",
+              "display_url": "adaptivepath.com/ideas/adaptive…",
+              "indices": [
+                101,
+                123
+              ]
+            }
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "seralat",
+              "name": "Tal Herman",
+              "id": 1668781,
+              "id_str": "1668781",
+              "indices": [
+                1,
+                9
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/68644292/sarahavatar_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/68644292/sarahavatar_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14609982/1391612791",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    {
+      "id": 14538938,
+      "id_str": "14538938",
+      "name": "Boonsri",
+      "screen_name": "boonsri",
+      "location": "California",
+      "profile_location": null,
+      "description": "Filmmaker, journalist, entreprenuer, advisor, & chemical engineer. Written for Discover magazine, CNET, & Business Insider. storytellerboonsri at gmail dot com",
+      "url": "http://t.co/BohP5CbhTq",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/BohP5CbhTq",
+              "expanded_url": "http://www.boonsridickinson.com",
+              "display_url": "boonsridickinson.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 5761,
+      "friends_count": 4566,
+      "listed_count": 280,
+      "created_at": "Sat Apr 26 03:09:45 +0000 2008",
+      "favourites_count": 1372,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4298,
+      "lang": "en",
+      "status": {
+        "created_at": "Thu Oct 23 03:54:45 +0000 2014",
+        "id": 525133195704938500,
+        "id_str": "525133195704938496",
+        "text": "RT @kostello: Start-up Profile: SolveBio Wants to Bridge Genomic Research and Applications http://t.co/6hqTJhr7MY via @IEEESpectrum @boonsri",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Thu Oct 23 03:52:04 +0000 2014",
+          "id": 525132524343656450,
+          "id_str": "525132524343656448",
+          "text": "Start-up Profile: SolveBio Wants to Bridge Genomic Research and Applications http://t.co/6hqTJhr7MY via @IEEESpectrum @boonsri",
+          "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "retweet_count": 1,
+          "favorite_count": 2,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+              {
+                "url": "http://t.co/6hqTJhr7MY",
+                "expanded_url": "http://bit.ly/1FFSdfu",
+                "display_url": "bit.ly/1FFSdfu",
+                "indices": [
+                  77,
+                  99
+                ]
+              }
+            ],
+            "user_mentions": [
+              {
+                "screen_name": "IEEESpectrum",
+                "name": "IEEE Spectrum",
+                "id": 15825547,
+                "id_str": "15825547",
+                "indices": [
+                  104,
+                  117
+                ]
+              },
+              {
+                "screen_name": "boonsri",
+                "name": "Boonsri",
+                "id": 14538938,
+                "id_str": "14538938",
+                "indices": [
+                  118,
+                  126
+                ]
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "url": "http://t.co/6hqTJhr7MY",
+              "expanded_url": "http://bit.ly/1FFSdfu",
+              "display_url": "bit.ly/1FFSdfu",
+              "indices": [
+                91,
+                113
+              ]
+            }
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "kostello",
+              "name": "Greg Kostello",
+              "id": 9612132,
+              "id_str": "9612132",
+              "indices": [
+                3,
+                12
+              ]
+            },
+            {
+              "screen_name": "IEEESpectrum",
+              "name": "IEEE Spectrum",
+              "id": 15825547,
+              "id_str": "15825547",
+              "indices": [
+                118,
+                131
+              ]
+            },
+            {
+              "screen_name": "boonsri",
+              "name": "Boonsri",
+              "id": 14538938,
+              "id_str": "14538938",
+              "indices": [
+                132,
+                140
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "04171F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000056886192/a5b47bd9beb1905ad5477b804cca5eff.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000056886192/a5b47bd9beb1905ad5477b804cca5eff.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/525139144805449728/FqXaooR7_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/525139144805449728/FqXaooR7_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14538938/1413170805",
+      "profile_link_color": "264F5E",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C5C6C7",
+      "profile_text_color": "120A03",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    }
+  ],
+  "next_cursor": 4611686018441927000,
+  "next_cursor_str": "4611686018441926842",
+  "previous_cursor": -4611686018443633000,
+  "previous_cursor_str": "-4611686018443632143"
+}
