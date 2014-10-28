@@ -4,6 +4,7 @@ Test various gender libraries on training, testing!
 import twitter
 import json
 import sexmachine.detector as gender
+from genderize import Genderize
 
 d = gender.Detector()
 
@@ -27,5 +28,7 @@ for t in twps:
     location = t.location
     gender_gold = testing[str(t.id)]
     gender_sexmachine = d.get_gender(name.split()[0])
+    gender_genderize = Genderize().get([name.split()[0]])[0]['gender']
 
-    print name, location, gender_gold, gender_sexmachine
+
+    print name, location, gender_gold, gender_sexmachine, gender_genderize
