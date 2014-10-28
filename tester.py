@@ -3,6 +3,9 @@ Test various gender libraries on training, testing!
 """
 import twitter
 import json
+import sexmachine.detector as gender
+
+d = gender.Detector()
 
 CONSUMER_KEY = "RE9RJs5c3zQ8yhLCZQCKlVglT"
 CONSUMER_SECRET = "iA5ElxRl9JWm4wYDntSI2UxT56Yp6SpcDkAJ40EoDvMMFnWkfK"
@@ -23,6 +26,6 @@ for t in twps:
     name = t.name
     location = t.location
     gender_gold = testing[str(t.id)]
-  
-    print name, location, gender_gold
+    gender_sexmachine = d.get_gender(name.split()[0])
 
+    print name, location, gender_gold, gender_sexmachine
