@@ -5,8 +5,11 @@ import twitter
 import json
 import sexmachine.detector as gender
 from genderize import Genderize
+from hammock import Hammock as GendreAPI
+import string
 
 d = gender.Detector()
+gendre = GendreAPI("http://api.namsor.com/onomastics/api/json/gendre")
 
 CONSUMER_KEY = "RE9RJs5c3zQ8yhLCZQCKlVglT"
 CONSUMER_SECRET = "iA5ElxRl9JWm4wYDntSI2UxT56Yp6SpcDkAJ40EoDvMMFnWkfK"
@@ -25,10 +28,27 @@ twps = api.UsersLookup(user_id=ids[:100])
 for t in twps:
     screen_name = t.screen_name
     name = t.name
-    location = t.location
-    gender_gold = testing[str(t.id)]
-    gender_sexmachine = d.get_gender(name.split()[0])
-    gender_genderize = Genderize().get([name.split()[0]])[0]['gender']
+
+    # WE SPEAK AMERICAN HERE
+    cleanedname = filter(lambda x: x in string.printable, name).strip()   
+    if cleanedname:
+        print "CLEANED NAME", cleanedname
+
+        splitname = cleanedname.split()
+        firstname = splitname[0]
+        lastname = splitname[-1] if len(splitname) > 1 else None
+
+        location = t.location
+        gender_gold = testing[str(t.id)]
+        gender_sexmachine = d.get_gender(firstname)
+        gender_genderize = Genderize().get([firstname])[0]['gender']
+       
+        #import pdb; pdb.set_trace() 
+
+        resp = gendre(firstname, lastname).GET() # also add country code?
+        gender_gendre = resp.json().get('gender')
+
+        print name, location, gender_gold, gender_sexmachine, gender_genderize, gender_gendre
 
 
-    print name, location, gender_gold, gender_sexmachine, gender_genderize
+
