@@ -1,6 +1,3 @@
-""" 
-Test various gender libraries on training, testing!
-"""
 import twitter
 import json
 import sexmachine.detector as gender
@@ -8,6 +5,9 @@ from genderize import Genderize
 from hammock import Hammock as GendreAPI
 import string
 
+""" 
+Test various gender libraries on training, testing!
+"""
 d = gender.Detector()
 gendre = GendreAPI("http://api.namsor.com/onomastics/api/json/gendre")
 
@@ -32,8 +32,6 @@ for t in twps:
     # WE SPEAK AMERICAN HERE
     cleanedname = filter(lambda x: x in string.printable, name).strip()   
     if cleanedname:
-        print "CLEANED NAME", cleanedname
-
         splitname = cleanedname.split()
         firstname = splitname[0]
         lastname = splitname[-1] if len(splitname) > 1 else None
