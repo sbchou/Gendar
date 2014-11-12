@@ -5,11 +5,14 @@ from genderize import Genderize
 from hammock import Hammock as GendreAPI
 import string
 import psycopg2
+import sys
+
 """
 Test various gender libraries on training, data!
 """
 
 def get_gold(data_path, output_path):
+    """Construct the Gold dataset"""
      # Initialize all yo shit
     CONSUMER_KEY = "RE9RJs5c3zQ8yhLCZQCKlVglT"
     CONSUMER_SECRET = "iA5ElxRl9JWm4wYDntSI2UxT56Yp6SpcDkAJ40EoDvMMFnWkfK"
@@ -25,6 +28,7 @@ def get_gold(data_path, output_path):
 
     # Do this a chunk at a time to avoid api limit  
     n = len(ids)
+    #import pdb; pdb.set_trace()
     for i in xrange(0, n, 100):
         j =  i + 100 if i + 100 <= n else n
         print "Now processing #" + str(i) + " to #" + str(j)
@@ -34,7 +38,8 @@ def get_gold(data_path, output_path):
             name = t.name
             cleanedname = filter(lambda x:x  in string.printable, name).strip()
             location = t.location if t.location else "None"
-            description = t.description
+            description = t.description.strip()
+            description = ' '.join(description.split())
             time_zone = t.time_zone
             values = [str(t.id), screen_name, name, cleanedname, location, \
                         description, time_zone]
@@ -45,8 +50,22 @@ def get_gold(data_path, output_path):
     output.close()
 
 
+def main(args):
+    #infer_sex('data/output.tsv')
+    #test('data/labels.json', 'data/test_all.tsv')
+    if args[1] == "GOLD":
+        get_gold('data/labels.json', 'data/gold_clean2.tsv')
+    if args[1] == "TEST":
+        print "TEST"
+
+if __name__ == "__main__":
+    main(sys.argv)
+
+
+"""
+
 def test(data_path, output_path):
-    """ No location as of yet"""
+    " No location as of yet"
     # Initialize all yo shit
     CONSUMER_KEY = "RE9RJs5c3zQ8yhLCZQCKlVglT"
     CONSUMER_SECRET = "iA5ElxRl9JWm4wYDntSI2UxT56Yp6SpcDkAJ40EoDvMMFnWkfK"
@@ -145,7 +164,7 @@ def fetch_data(query):
     return records
 
 def infer_sex(output_path):
-    """ No location as of yet"""
+    "No location as of yet"
 
     sexmachine = gender.Detector()
     gendre = GendreAPI("http://api.namsor.com/onomastics/api/json/gendre")
@@ -219,20 +238,6 @@ def infer_sex(output_path):
                 #output.write("\t".join(values) + "\n") 
                 #output.close()
 
-def main():
-    #infer_sex('data/output.tsv')
-    #test('data/labels.json', 'data/test_all.tsv')
-    get_gold('data/labels.json', 'data/gold.tsv')
-
-if __name__ == "__main__":
-    main()
-
-
-
-
-
-
-"""
 def infer_sex(data_path, output_path, n):
     data = json.load(open(data_path, 'r'))
     output = open(output_path, 'w')
