@@ -6,10 +6,37 @@ from hammock import Hammock as GendreAPI
 import string
 import psycopg2
 import sys
+import pandas
 
 """
 Test various gender libraries on training, data!
 """
+
+def play():
+    labels = pandas.read_csv('data/labels.tsv', sep="\t", index_col=0)
+    data = pandas.read_csv('data/gold.tsv', sep="\t", index_col=0)
+    data = data.drop('Unnamed: 7',1)
+    l = list(labels.index)
+    l = [str(x) for x in l]
+    labels.index = l
+    joined = data.join(labels)
+
+    f_bios = joined[joined.sex=="F"].description
+    f_bios = f_bios[f_bios.notnull()]
+
+    m_bios = joined[joined.sex=="M"].description
+    m_bios = m_bios[m_bios.notnull()]
+
+    motherwords = ["mom", "mommy", "mother", "children"]
+    fatherwords = ["dad", "daddy", "father", "children"]
+
+    print "motherwords"
+    num_mom = len([f for f in f_bios if any(x in f for x in motherwords)])
+    print num_mom, num_mom / (1.0 * len(f_bios)) # 0.0193
+
+    print "fatherwords"
+    num_dad = len([m for m in m_bios if any(x in m for x in fatherwords)])
+    print num_dad, num_dad / (1.0 * len(m_bios)) # 0.0139
 
 def get_gold(data_path, output_path):
     """Construct the Gold dataset"""
@@ -54,7 +81,9 @@ def main(args):
     #infer_sex('data/output.tsv')
     #test('data/labels.json', 'data/test_all.tsv')
     if args[1] == "GOLD":
-        get_gold('data/labels.json', 'data/gold_clean2.tsv')
+        in_path = args[2]
+        out_path = args[3]
+        get_gold(in_path, out_path)
     if args[1] == "TEST":
         print "TEST"
 
