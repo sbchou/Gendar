@@ -12,6 +12,29 @@ import pandas
 Test various gender libraries on training, data!
 """
 
+def compute_features(raw_data):
+    """ Compute features for classification"""
+    motherwords = ["mom", "mother", "mommy", "mama"]
+    fatherwords = ["dad", "father", "daddy", "papa"]
+   
+    # Find if there are fatherwords 
+    data.apply(lambda row: any(word in row['description'] \
+                for word in motherwords) \
+                if pandas.notnull(row['description']) \
+                else False, \
+                1)
+        
+    # Find if there are fatherwords
+    data.apply(lambda row: any(word in row['description'] \
+                for word in fatherwords) \
+                if pandas.notnull(row['description']) \
+                else False, \
+                1)
+
+
+
+
+
 def play():
     labels = pandas.read_csv('data/labels.tsv', sep="\t", index_col=0)
     data = pandas.read_csv('data/gold.tsv', sep="\t", index_col=0)
