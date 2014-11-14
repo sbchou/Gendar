@@ -11,6 +11,22 @@ import pandas
 """
 Test various gender libraries on training, data!
 """
+def svm():
+    # must convert label index to string
+    features.index = features.index.astype('int64')
+    labeled = features.join(labels)
+    labeled = labeled.as_matrix()
+    labeled = labeled[np.isfinite(labeled['sex'])]
+    from sklearn import svm
+    clf = svm.SVC
+    mtx = labeled.as_matrix()
+    X = mtx[:, 0:3]
+    Y = mtx[:,4]
+    X_train = X[0:10000,;]
+    Y_train = Y[0:10000]
+    clf.fit(X_train, Y_train)
+    pred = clf.predict(X[10000:len(X)])
+    sum(1.0 * (pred == Y[10000:])) / len(Y[10000:]) #64%
 
 def compute_profile_features(data):
     """ Compute features for classification"""
@@ -56,9 +72,11 @@ def compute_name_features(data):
         data['firstname'] = firstname
         data['lastname'] = lastname
 
-        data.apply(get_gendre, 1) 
+        gendre = data.apply(get_gendre, 1) 
+        data['gendre'] = gendre
 
 def get_gendre(row):
+    gendre = GendreAPI("http://api.namsor.com/onomastics/api/json/gendre")
     firstname = row['firstname']
     lastname = row['lastname']
     if firstname:
