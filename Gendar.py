@@ -12,28 +12,65 @@ import pandas
 Test various gender libraries on training, data!
 """
 
-def compute_features(raw_data):
+def compute_profile_features(data):
     """ Compute features for classification"""
     motherwords = ["mom", "mother", "mommy", "mama"]
     fatherwords = ["dad", "father", "daddy", "papa"]
    
-    # Find if there are fatherwords 
-    data.apply(lambda row: any(word in row['description'] \
+    # Find if there are motherwords 
+    motherwords = data.apply(lambda row: any(word in row['description'].split() \
                 for word in motherwords) \
                 if pandas.notnull(row['description']) \
                 else False, \
                 1)
         
     # Find if there are fatherwords
-    data.apply(lambda row: any(word in row['description'] \
+    fatherwords = data.apply(lambda row: any(word in row['description'].split() \
                 for word in fatherwords) \
                 if pandas.notnull(row['description']) \
                 else False, \
                 1)
 
+    data['motherwords'] = motherwords * 1
+    data['fatherwords'] = fatherwords * 1
 
+   # some gay stuff
+   lwords = data.apply(lambda row: "lesbian" in row['description'] \
+                if pandas.notnull(row['description']) \
+                else False, \
+                1)
+    
+    data["lwords"] = lwords * 1
 
+ 
+def compute_name_features(data):
+        firstname = data.apply(lambda row: row['cleanedname'].split()[0] \
+            if pandas.notnull(row['cleanedname']) \
+            else None, 1)
+        
+        lastname = data.apply(lambda row: row['cleanedname'].split()[-1] \
+            if pandas.notnull(row['cleanedname']) \
+            and len(row['cleanedname'].split()) > 1 \
+            else None, 1)
+        
+        data['firstname'] = firstname
+        data['lastname'] = lastname
 
+        data.apply(get_gendre, 1) 
+
+def get_gendre(row):
+    firstname = row['firstname']
+    lastname = row['lastname']
+    if firstname:
+        try:
+            resp = gendre(firstname, lastname).GET() 
+            score = resp.json().get('scale')
+            return score
+        except:
+            "error"
+        else: 
+            return None
+    return None
 
 def play():
     labels = pandas.read_csv('data/labels.tsv', sep="\t", index_col=0)
@@ -126,7 +163,7 @@ def test(data_path, output_path):
     
     api = twitter.Api(consumer_key = CONSUMER_KEY, consumer_secret=CONSUMER_SECRET, access_token_key=ACCESS_TOKEN, access_token_secret=ACCESS_TOKEN_SECRET)
     sexmachine = gender.Detector()
-    gendre = GendreAPI("http://api.namsor.com/onomastics/api/json/gendre")
+    gendre = gendreapi("http://api.namsor.com/onomastics/api/json/gendre")
 
     sexmachine = gender.Detector()
     gendre = GendreAPI("http://api.namsor.com/onomastics/api/json/gendre")
