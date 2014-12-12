@@ -38,6 +38,97 @@ def init_svm():
     #pickle.dump(clf, open("svc.pickle", "w"))
     return clf
 
+def json_to_csv(json_path):
+    """ Convert twitter API results to our feature format"""
+
+    from hammock import Hammock as GendreAPI
+
+    motherwords = ["mom", "mother", "mommy", "mama"]
+    fatherwords = ["dad", "father", "daddy", "papa"]
+    lwords = ["lesbian"]
+
+    data = json.load(open(json_path, 'r'))
+    print "id, firstname, lastname, fatherwords, motherwords, lwords, gendre, sex"
+    for user in data:
+        fatherwords = 1.0 * any(word in user['description'].split() \
+                        for word in fatherwords), 
+        motherwords = 1.0 * any(word in user['description'].split() \
+                        for word in motherwords), 
+        lwords = 1.0 * any(word in user['description'].split() \
+                        for word in lwords), 
+
+        gendre = GendreAPI("http://api.namsor.com/onomastics/api/json/gendre")
+        firstname = user['name'].strip().split()[0]
+        lastname = user['name'].strip().split()[-1] if \
+                   len(user['name'].strip().split()) > 1 \
+                   else None  
+
+        if firstname:   
+            try:
+                resp = gendre(firstname, lastname).GET() 
+                score = resp.json().get('scale')
+            except:
+                "error"
+                score = None
+
+        print user['twitter_id'], ",", firstname,",", lastname, ",", \
+            fatherwords[0],",",  motherwords[0], ",", lwords[0], ",", score      
+
+
+def compute_profile_features(data):
+    """ Compute features for classification"""
+    motherwords = ["mom", "mother", "mommy", "mama"]
+    fatherwords = ["dad", "father", "daddy", "papa"]
+   
+    # Find if there are motherwords 
+    motherwords = data.apply(lambda row: any(word in row['description'].split() \
+                for word in motherwords) \
+                if pandas.notnull(row['description']) \
+                else False, \
+                1)
+        
+    # Find if there are fatherwords
+    fatherwords = data.apply(lambda row: any(word in row['description'].split() \
+                for word in fatherwords) \
+                if pandas.notnull(row['description']) \
+                else False, \
+                1)
+
+    data['motherwords'] = motherwords * 1
+    data['fatherwords'] = fatherwords * 1
+
+   # some gay stuff
+    lwords = data.apply(lambda row: "lesbian" in row['description'] \
+                if pandas.notnull(row['description']) \
+                else false, \
+                1)
+    
+    data["lwords"] = lwords * 1
+
+ 
+def compute_name_features(data):
+        firstname = data.apply(lambda row: row['cleanedname'].split()[0] \
+            if pandas.notnull(row['cleanedname']) \
+            else None, 1)
+        
+        lastname = data.apply(lambda row: row['cleanedname'].split()[-1] \
+            if pandas.notnull(row['cleanedname']) \
+            and len(row['cleanedname'].split()) > 1 \
+            else None, 1)
+        
+        data['firstname'] = firstname
+        data['lastname'] = lastname
+
+        gendre = data.apply(get_gendre, 1) 
+        data['gendre'] = gendre
+
+
+    
+
+
+
+######### Functions for generating gold data ###############
+
 def compute_profile_features(data):
     """ Compute features for classification"""
     motherwords = ["mom", "mother", "mommy", "mama"]
@@ -177,4 +268,3 @@ def main(args):
 
 if __name__ == "__main__":
     main(sys.argv)
-
