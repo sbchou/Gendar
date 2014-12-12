@@ -38,6 +38,15 @@ def init_svm():
     #pickle.dump(clf, open("svc.pickle", "w"))
     return clf
 
+def gendar_journos(svm_path, data_path, out_path):
+    clf = pickle.load(open(svm_path, 'r')) #make sure to use svc2!  
+    data = pandas.DataFrame.from_csv(data_path)
+    out = data.apply(lambda row: clf.predict([row.fatherwords, row.motherwords, row.lwords, row.gendre][0]), 1)
+    data['sex'] = out
+    data.to_csv(out_path)
+
+
+
 def json_to_csv(json_path):
     """ Convert twitter API results to our feature format"""
 
@@ -48,7 +57,7 @@ def json_to_csv(json_path):
     lwords = ["lesbian"]
 
     data = json.load(open(json_path, 'r'))
-    print "id, firstname, lastname, fatherwords, motherwords, lwords, gendre, sex"
+    print "id, firstname, lastname, fatherwords, motherwords, lwords, gendre"
     for user in data:
         fatherwords = 1.0 * any(word in user['description'].split() \
                         for word in fatherwords), 
@@ -61,7 +70,7 @@ def json_to_csv(json_path):
         firstname = user['name'].strip().split()[0]
         lastname = user['name'].strip().split()[-1] if \
                    len(user['name'].strip().split()) > 1 \
-                   else None  
+                   else 0 
 
         if firstname:   
             try:
@@ -69,7 +78,7 @@ def json_to_csv(json_path):
                 score = resp.json().get('scale')
             except:
                 "error"
-                score = None
+                score = 0
 
         print user['twitter_id'], ",", firstname,",", lastname, ",", \
             fatherwords[0],",",  motherwords[0], ",", lwords[0], ",", score      
